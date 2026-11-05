@@ -1,4 +1,4 @@
-<span bacground color ="color:#2ECC71; >
+
 <div align="center">
 
 # 🚀 SAP BTP Administration MCP Server
@@ -24,7 +24,6 @@
 </p>
 
 </div>
-</span>
 
 ---
 
